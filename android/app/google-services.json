@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "698762445358",
+    "firebase_url": "https://stbproject-a9f40-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stbproject-a9f40",
+    "storage_bucket": "stbproject-a9f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698762445358:android:bd8dea9f1b1ece7bffd5bf",
+        "android_client_info": {
+          "package_name": "com.example.stbbankapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAd89IceHB5f4A5fVvO44QoNLNXCK-EV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698762445358:android:1cf79d82aa365fa4ffd5bf",
+        "android_client_info": {
+          "package_name": "com.example.stbproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAd89IceHB5f4A5fVvO44QoNLNXCK-EV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
